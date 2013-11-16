@@ -8,7 +8,7 @@ multiple devices of the user along with centralized logging.
 Setup
 =====
 1. Install Meteor: ``$ curl https://install.meteor.com | sh``
-1. Clone repo: ``$ git clone https://github.com/rtnpro/waartaa.git``
+1. Clone repo: ``$ git clone https://github.com/rtnpro/waartaa.git waartaa``
 1. Change dir to waartaa: ``$ cd waartaa``
 1. Copy sample settings file: ``$ cp server/settings-local.js-dist server/settings-local.js``
    and customize ``server/settings-local.js`` as needed.
